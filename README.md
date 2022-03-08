@@ -11,7 +11,7 @@ min() – Minimum.<br/>
 max() – Maximum.<br/>
 mode() – Mode.<br/>
 std() – Standard deviation.<br/>
-### mean() median() mode() and groupby()
-These are ag
+<br/>
+These are aggregate functions because they take multiple values and give you a result.
 
 
