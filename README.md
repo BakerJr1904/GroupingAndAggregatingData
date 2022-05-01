@@ -1,4 +1,5 @@
 # Grouping & Aggregating Data
+
 ### What is groupby function in Python?
 One of the most frequently used Pandas functions for data analysis is the groupby function. It allows for grouping data points (i.e. rows) based on the distinct values in a column or a set of columns. After the groups are generated, you can easily apply aggregation functions to a numerical column.
 ### Why Groupby is used with aggregate functions?
