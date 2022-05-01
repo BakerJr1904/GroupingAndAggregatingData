@@ -29,7 +29,6 @@ min() – Minimum.<br/>
 max() – Maximum.<br/>
 
 mode() – Mode.<br/>
-
 std() – Standard deviation.<br/>
 <br/>
 These are aggregate functions because they take multiple values and give you a result.
