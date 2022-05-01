@@ -19,6 +19,7 @@ Have a glance at all the aggregate functions in the Pandas package:<br/><br/>
 count() – Number of non-null observations.<br/>
 
 sum() – Sum of values.<br/>
+
 mean() – Mean of values.<br/>
 median() – Arithmetic median of values.<br/>
 min() – Minimum.<br/>
