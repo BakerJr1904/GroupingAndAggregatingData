@@ -23,7 +23,6 @@ sum() – Sum of values.<br/>
 mean() – Mean of values.<br/>
 
 median() – Arithmetic median of values.<br/>
-
 min() – Minimum.<br/>
 max() – Maximum.<br/>
 mode() – Mode.<br/>
