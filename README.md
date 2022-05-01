@@ -15,7 +15,6 @@ Grouping & Aggregating Data is what most people think of when they think of anal
 ### What are aggregate functions in pandas?
 
 Have a glance at all the aggregate functions in the Pandas package:<br/><br/>
-
 count() – Number of non-null observations.<br/>
 sum() – Sum of values.<br/>
 mean() – Mean of values.<br/>
