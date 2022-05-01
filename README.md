@@ -27,6 +27,7 @@ median() – Arithmetic median of values.<br/>
 min() – Minimum.<br/>
 
 max() – Maximum.<br/>
+
 mode() – Mode.<br/>
 std() – Standard deviation.<br/>
 <br/>
