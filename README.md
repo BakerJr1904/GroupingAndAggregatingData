@@ -9,6 +9,7 @@ One of the most frequently used Pandas functions for data analysis is the groupb
 The GROUP BY statement groups rows that have the same values into summary rows, like "find the number of customers in each country". The GROUP BY statement is often used with aggregate functions ( COUNT() , MAX() , MIN() , SUM() , AVG() ) to group the result-set by one or more columns.
 
 ### Aggregation works with only numeric type columns.
+
 Grouping & Aggregating Data is what most people think of when they think of analyzing data in a meaningful sense. We will get some statistics back on the data set and not just modifying our dataset. For example, maybe you want to know what the average salary for a developer is, or maybe you want to know how many people from each country use a desktop.<br/>
 ### What are aggregate functions in pandas?
 Have a glance at all the aggregate functions in the Pandas package:<br/><br/>
